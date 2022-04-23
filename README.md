@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
 <img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=autumn-yng)
