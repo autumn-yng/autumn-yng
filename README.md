@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURLINKEDINCODE)](https://www.linkedin.com/in/autumnyngocnguyen/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:autumn.yngoc@gmail.com)](mailto:autumn.yngoc@gmail.com)
 **autumn-yng/autumn-yng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,9 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURLINKEDINCODE)](https://www.linkedin.com/in/autumnyngocnguyen/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:autumn.yngoc@gmail.com)](mailto:autumn.yngoc@gmail.com)
 
+### I'm currently working on...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
+
+### Technologies
 <img title="swift" alt="swfit" src="/assets/swift-icon.svg"  width="40" height="40" /> <img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="40" height="40" />
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
 <img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
