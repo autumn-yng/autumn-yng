@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURLINKEDINCODE)](https://www.linkedin.com/in/autumnyngocnguyen/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:autumn.yngoc@gmail.com)](mailto:autumn.yngoc@gmail.com)
 
-<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
-<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
-<img title="HTML" alt="html" src="/assets/html-5.svg"  width="50" height="40" />
-<img title="CSS" alt="css" src="/assets/css-3.svg" width="50" height="40" />
+<img title="swift" alt="swfit" src="/assets/swift-icon.svg"  width="40" height="40" /> <img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="40" height="40" />
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
 <img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
