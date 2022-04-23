@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=autumn-yng&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autumn-yng&layout=compact)](https://github.com/autumn-yng/github-readme-stats)
