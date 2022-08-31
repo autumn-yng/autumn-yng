@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:autumn.yngoc@gmail.com)](mailto:autumn.yngoc@gmail.com)
 
 ### 🔭 I'm currently working on...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=co2-temperature)](https://github.com/autumn-yng/co2-temperature)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
 
 ### 🔭 Technologies
