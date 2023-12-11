@@ -4,9 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:autumn.yngoc@gmail.com)](mailto:autumn.yngoc@gmail.com)
 
 ### 🔭 Newest project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=summerfog)](https://github.com/autumn-yng/summerfog)
 
-### 🔭 Projects I'm most proud of
+### 🔭 Projects I'm proud of
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=co2-temperature)](https://github.com/autumn-yng/co2-temperature)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
 
