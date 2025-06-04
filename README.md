@@ -1,21 +1,34 @@
-### Hi there! I'm Autumn Nguyen 🪴
+## Autumn Nguyen 🍁
+*Programming, teamworking, contributing<br>
+things I like doing
+<br><br>*
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURLINKEDINCODE)](https://www.linkedin.com/in/autumnyngocnguyen/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:autumn.yngoc@gmail.com)](mailto:autumn.yngoc@gmail.com)
-
-### 🔭 Newest project
+### 1. Data Science & Machine Learning
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=summerfog)](https://github.com/autumn-yng/summerfog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=leaf-health-computer-vision)](https://github.com/autumn-yng/leaf-health-computer-vision)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=cnn_fog)](https://github.com/autumn-yng/cnn_fog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=SiFT-MTP-protocol)](https://github.com/autumn-yng/SiFT-MTP-protocol)
-
-### 🔭 Other projects I'm proud of
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=pavement-marking-detection
+)](https://github.com/autumn-yng/pavement-marking-detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=reforestree-correction)](https://github.com/autumn-yng/reforestree-correction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=leaf-health-computer-vision)](https://github.com/autumn-yng/leaf-health-computer-vision)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=co2-temperature)](https://github.com/autumn-yng/co2-temperature)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
 
-### 🔭 Technologies
-<img title="swift" alt="swfit" src="/assets/swift-icon.svg"  width="40" height="40" /> <img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="40" height="40" />
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
-<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
+
+### 2. Front-End Software Development
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
+
+[FlappyBird-FocusJorge](https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge)* -- Java, OOP, Test-Driven Development.
+
+### 3. Cryptography & Cybersecurity
+[SiFT-MTP-protocol](https://github.com/autumn-yng/SiFT-MTP-protocol)* -- Python, PyCryptodome; AES, RSA.
+
+### 4. Mathematics Research
+[Computational Evidence for Dynamical Irreducibility over Finite Fields](https://github.com/autumn-yng/dynamical_irreducibility)
+
+---
+<sub>Email: autumn [dot] yngoc [at] gmail [dot] com</sub> <br> 
+<sub>[LinkedIn](https://www.linkedin.com/in/autumnyngocnguyen/)</sub> <br> 
+<sub>[Endorsements](https://www.linkedin.com/in/autumnyngocnguyen/details/recommendations/?detailScreenTabIndex=0)</sub>
+
+<br><br>
+<sub>*These projects are currently private to certain people only -- hopefully one day we will be able to make them public and open-source!</sub>
