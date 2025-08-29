@@ -3,7 +3,15 @@
 things I like doing
 <br><br>*
 
-### 1. Data Science & Machine Learning
+### 1. Front-End Software Development
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=community-book)](https://github.com/autumn-yng/community-book)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
+
+[FlappyBird-FocusJorge](https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge)* -- Java, OOP, Test-Driven Development.
+
+
+### 2. Data Science & Machine Learning
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=summerfog)](https://github.com/autumn-yng/summerfog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=cnn_fog)](https://github.com/autumn-yng/cnn_fog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=pavement-marking-detection
@@ -12,13 +20,6 @@ things I like doing
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=leaf-health-computer-vision)](https://github.com/autumn-yng/leaf-health-computer-vision)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=co2-temperature)](https://github.com/autumn-yng/co2-temperature)
 
-
-### 2. Front-End Software Development
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autumn-yng&repo=community-book)](https://github.com/autumn-yng/community-book)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=sride)](https://github.com/auyura/sride)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=auyura&repo=TrashMe)](https://github.com/auyura/TrashMe)
-
-[FlappyBird-FocusJorge](https://github.com/MHC-SP23-CS225/angryflappybird-teamfocusjorge)* -- Java, OOP, Test-Driven Development.
 
 ### 3. Cryptography & Cybersecurity
 [SiFT-MTP-protocol](https://github.com/autumn-yng/SiFT-MTP-protocol)* -- Python, PyCryptodome; AES, RSA.
